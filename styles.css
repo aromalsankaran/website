@@ -43,7 +43,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background-image: url('https://github.com/aromalsankaran/website/blob/main/quasar_image.jpg'); /* Replace with a URL of a suitable background image */
+    background-image: url('https://example.com/space-background.jpg'); /* Replace with a URL of a suitable background image */
     background-size: cover;
     background-position: center;
     padding: 5rem 0;
@@ -98,6 +98,26 @@ nav ul li a:hover {
 .about h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.profile p {
+    max-width: 600px;
+    text-align: left;
 }
 
 footer {
