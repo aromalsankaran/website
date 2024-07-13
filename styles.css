@@ -43,7 +43,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background-image: url('https://example.com/space-background.jpg'); /* Replace with a URL of a suitable background image */
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebbtelescope.org%2Fcontents%2Fmedia%2Fimages%2F2021%2F056%2F01FMN1ZWWC3BKFWP8GJY9GRNFQ&psig=AOvVaw01ctZlXOGyuQKJK2YAfyap&ust=1720995960297000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj5htqHpYcDFQAAAAAdAAAAABAE'); /* Replace with a URL of a suitable background image */
     background-size: cover;
     background-position: center;
     padding: 5rem 0;
