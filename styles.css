@@ -43,7 +43,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background-image: url('https://github.com/aromalsankaran/website/blob/main/quasar_image.jpg'); /* Replace with a URL of a suitable background image */
+    background-image: url('https://raw.githubusercontent.com/aromalsankaran/website/blob/main/quasar_image.jpg'); /* Replace with a URL of a suitable background image */
     background-size: cover;
     background-position: center;
     padding: 5rem 0;
